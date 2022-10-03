@@ -1,0 +1,83 @@
+.h-1 {
+    font-size: 32px;
+    line-height: 37px;
+    font-weight: 300;
+    color: #3A4242;
+}
+
+.h-2 {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #3A4242;
+}
+
+.h-3 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.content {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.day-of-week-year {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+}
+
+.day-of-week-month {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.day-of-week-year-small {
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+}
+.day-month {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+}
+
+.day-half {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+}
+
+.day-year {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.thin {
+    font-weight: 300;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.small {
+    font-size: 14px;
+    line-height: 24px;
+}
